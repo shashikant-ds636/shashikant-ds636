@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Shashikant%20Giri&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Science%20%26%20AI%2FML%20Learner&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=B.Sc.+IT+Graduate;Aspiring+Data+Analyst;Power+BI+%7C+Excel+%7C+Python+%7C+SQL;Currently+Learning+Data+Science+%26+AI%2FML;Building+Projects+and+Learning+Every+Day"/>
 
