@@ -309,6 +309,4 @@ Cleaned and analyzed HR datasets, built performance dashboards in Power BI, then
 
 If you like my work, consider starring my repositories and connecting with me.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
-
 </div>
